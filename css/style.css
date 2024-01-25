@@ -58,8 +58,8 @@ margin:0 auto;
   clear:both;
 }
 .jpeg{
-  width:400px;
-  float:left
+  width:700px;
+  float:left;
 }
 .health{
   float:left;
@@ -82,8 +82,25 @@ margin:0 auto;
   border-radius:80%;
   display:inline-block;
   padding:3px;
-  margin:18px
-}.medicine{
-  float:right;
+  margin:18px;
 
+}
+.pic{
+  text-align:center;
+}
+.clearfix{
+  clear:both;
+  text-align:center;
+}
+.picture{
+  text-align:center;
+}
+.span1{
+  color:#2dd6c1
+}
+.span2{
+  color:#496bf2
+}
+.me{
+  color:#496bf2;
 }
