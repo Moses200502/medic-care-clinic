@@ -88,19 +88,16 @@ margin:0 auto;
 .pic{
   text-align:center;
 }
-.clearfix{
+.clearfix{(
   clear:both;
   text-align:center;
 }
 .picture{
-  text-align:center;
-}
-.span1{
-  color:#2dd6c1
-}
-.span2{
-  color:#496bf2
+text-align:center;
 }
 .me{
   color:#496bf2;
+}
+.span1{
+  color:#2dd6c1;
 }
