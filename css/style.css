@@ -114,5 +114,9 @@ text-align:center;
 }
 .doctor{
   background: url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
-height: 50vh;
+height: 100vh;
+}.form input{
+  margin:30px;
+  padding:35px 20px;
+  width:20%;
 }
