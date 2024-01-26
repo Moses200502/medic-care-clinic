@@ -78,12 +78,15 @@ margin:0 auto;
 .Testimonials-circle{
   width:20px;
   height:20px;
-  border:2px solid blue;
-  border-radius:80%;
-  display:inline-block;
-  padding:3px;
-  margin:18px;
-
+  border:90px; 
+  border-radius:50px;
+  margin:0 auto;
+  background-color:#2dd6c1;
+  float:left;
+}
+.circle{
+  width:20%                                                                                                         ;
+margin:0 auto;
 }
 .pic{
   text-align:center;
@@ -115,12 +118,31 @@ text-align:center;
 .doctor{
   background: url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
 height: 100vh;
-}.form input{
+}
+.form input{
   margin:30px;
   padding:35px 20px;
   width:20%;
 }
 .images{
-  margin:30px;
-  padding:35px 20px;
+  padding:20px;
+}
+.nurse{
+  color:#496bf2;
+}
+.face{
+  float:right;
+}
+.car{
+  float:left;
+  width:10%;
+}
+.img5{
+  float:left;
+}
+.jeep{
+  float:left;
+}
+.CARS{
+  float: left;
 }
