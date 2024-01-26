@@ -106,7 +106,13 @@ text-align:center;
 .clearfix{
   clear:both;
 }
+.button{
+  background-color:#496bf2;
+  color:white;
+  padding:20px;
+  margin:5px;
+}
 .doctor{
-margin: 30px;
-
+  background: url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
+height: 50vh;
 }
