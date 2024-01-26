@@ -1,3 +1,9 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: 'Josefin Sans', sans-serif;
+}
 .clearfix{
   clear: both;
 }
@@ -143,6 +149,10 @@ height: 100vh;
 .jeep{
   float:left;
 }
-.CARS{
-  float: left;
+.cars{
+  float:left;
+  width:20%;
+}
+.nail{
+  line-hight:35px;
 }
