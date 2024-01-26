@@ -88,9 +88,8 @@ margin:0 auto;
 .pic{
   text-align:center;
 }
-.clearfix{(
+.clearfix{
   clear:both;
-  text-align:center;
 }
 .picture{
 text-align:center;
@@ -100,4 +99,14 @@ text-align:center;
 }
 .span1{
   color:#2dd6c1;
+}
+.span2{
+  color:#496bf2;
+}
+.clearfix{
+  clear:both;
+}
+.doctor{
+margin: 30px;
+
 }
