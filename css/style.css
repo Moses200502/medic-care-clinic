@@ -144,6 +144,9 @@ height: 100vh;
   float:left;
   width:10%;
 }
+.icu{
+  list-style-type:none;
+}
 .img5{
   float:left;
 }
@@ -153,7 +156,8 @@ height: 100vh;
 .cars{
   float:left;
   width:20%;
-}
+  margin-left:-10px;
+};
 .nail{
   line-hight:35px;
 }
@@ -169,4 +173,19 @@ height: 100vh;
 .nurse2{
   color:#496bf2;
   font-family:'Josefin Sans', sans-serif;
+}
+.doctor2{
+  margin-top:50px;
+}
+.twits{
+  margin-left: 20px;
+}
+.facebook{
+  margin:0 10px;
+}
+.thermometers{
+  margin-bottom:30px;
+}
+.six thermometers{
+margin-bottom:30px;
 }
