@@ -1,191 +1,232 @@
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-  font-family: 'Josefin Sans', sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
 }
-.clearfix{
+.nurse2 {
+  color: #496bf2;
+}
+.clearfix {
   clear: both;
 }
-
 .sesmo {
   list-style-type: none;
   float: right;
+  font-size: 25px;
+}
+.p1 {
+  font-size: 20px;
+  line-height: 30px;
 }
 
-.logo{
+.logo {
   float: left;
 }
 
-ul li{
+ul li {
   display: inline-block;
   width: 200px;
 }
 .brian {
   background: url("../images/ezgif-2-b583d0ce77.png") no-repeat center
     center/cover;
-  height:50vh
+  height: 50vh;
 }
 .you {
-  color:rgb(0, 162, 255);
-position:relative;
-font-size:60px;
-padding:0 auto;
-margin:0 auto;
+  color: rgb(0, 162, 255);
+  position: relative;
+  font-size: 60px;
+  padding: 0 auto;
+  margin-bottom: 25px;
+}
+.mine {
+  float: right;
+  width: 50%;
+}
+.nurse5 {
+  font-size: 30px;
+  margin-top: 40px;
+}
+.btn {
+  padding: 15px 30px;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  font-size: 20px;
+  color: white;
+  margin-top: 25px;
+}
+.btn-blue {
+  background-color: #496bf2;
+}
+.btn-green {
+  background-color: #2dd6c1;
+}
 
-}
-.mine{
-  float:right;
-  width:50%;
-}
-.ke{
-  background-color:#496bf2;
-  padding:30px;
-  margin:20px;
-}
-.ka{
-  background-color:#2dd6c1;
-  padding:30px;
-  margin:10px;
-}
-.card{
-  background-color:white;
-  display:inline;
-  width:500px;
+.card {
+  background-color: white;
   float: left;
-  border:outset lightgray;
-  margin:30px;
+  width: 30%;
+  text-align: center;
+  box-shadow: 1px 1px 5px grey;
+  padding: 30px;
 }
-
-.card h2{
+.card p {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+  font-size: 22px;
+}
+.card h2 {
+  color: #496bf2;
+  font-size: 30px;
+  padding: 10px 0;
+}
+.card h2 {
   color: rgb(0, 110, 255);
 }
-.clearfix{
-  clear:both;
+.clearfix {
+  clear: both;
 }
-.jpeg{
-  width:700px;
-  float:left;
+
+.about-image {
+  width: 50%;
+  float: left;
 }
-.health{
-  float:left;
+.about-content {
+  width: 50%;
+  float: right;
+  font-size: 30px;
 }
-.read{
-  padding:15px;
-  margin:10px;
-  background-color:#496bf2;
+.container {
+  width: 80%;
+  margin: 0 auto;
 }
-.clearfix{
-  clear:both;
+.read {
+  padding: 15px;
+  margin: 10px;
+  background-color: #496bf2;
 }
-.clearfix{
-  clear:both;
+.clearfix {
+  clear: both;
 }
-.Testimonials-circle{
-  width:20px;
-  height:20px;
-  border:90px; 
-  border-radius:50px;
-  margin:0 auto;
-  background-color:#2dd6c1;
-  float:left;
+.clearfix {
+  clear: both;
 }
-.circle{
-    
-width:fit-content;
-  margin:0 auto;                                                                                            ;
+.Testimonials-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50px;
+  margin: 0 auto;
+  background-color: #2dd6c1;
+  float: left;
+  font-size: 30px;
 }
-.pic{
-  text-align:center;
+.circle {
+  width: fit-content;
+  margin: 0 auto;
 }
-.clearfix{
-  clear:both;
+.pic {
+  text-align: center;
 }
-.picture{
-text-align:center;
+.clearfix {
+  clear: both;
 }
-.me{
-  color:#496bf2;
+.picture {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;
 }
-.span1{
-  color:#2dd6c1;
+.me {
+  color: #496bf2;
 }
-.span2{
-  color:#496bf2;
+.doctor4 {
+  font-size: 40px;
 }
-.clearfix{
-  clear:both;
+.medicine {
+  margin-top: 5%;
 }
-.button{
-  background-color:#496bf2;
-  color:white;
-  padding:20px;
-  margin:5px;
+.span1 {
+  color: #2dd6c1;
 }
-.doctor{
-  background: url("../images/ezgif-2-81a50240fb.png") no-repeat center center/cover;
-height: 100vh;
+.span2 {
+  color: #496bf2;
 }
-.form input{
-  margin:30px;
-  padding:35px 20px;
-  width:20%;
+.clearfix {
+  clear: both;
 }
-.images{
-  padding:20px;
+.button {
+  background-color: #496bf2;
+  color: white;
+  padding: 20px;
+  margin: 5px;
 }
-.nurse{
-  color:#496bf2;
+.doctor {
+  background: url("../images/ezgif-2-81a50240fb.png") no-repeat center
+    center/cover;
+  height: 80vh;
+  margin: 60px 0;
 }
-.face{
-  float:right;
+.form input {
+  margin: 30px;
+  padding: 35px 20px;
+  width: 20%;
 }
-.car{
-  float:left;
-  width:10%;
+.form {
+  margin-left: 30px;
 }
-.icu{
-  list-style-type:none;
+.images {
+  padding: 20px;
 }
-.img5{
-  float:left;
+.nurse {
+  color: #496bf2;
+  margin-top: 20px;
+  font-size: 25px;
 }
-.jeep{
-  float:left;
+.circle {
+  margin-top: 20px;
 }
-.cars{
-  float:left;
-  width:20%;
-  margin-left:-10px;
-};
-.nail{
-  line-hight:35px;
+.picture {
+  margin-top: 40px;
 }
-.telescope{
-  color:#496bf2;
+.face {
+  float: right;
 }
-.nurse{
-  color:#2dd6c1;
+.car {
+  float: left;
+  width: 10%;
 }
-.patient{
-  color:#496bf2;
+.icu {
+  list-style-type: none;
 }
-.nurse2{
-  color:#496bf2;
-  font-family:'Josefin Sans', sans-serif;
+.img5 {
+  float: left;
 }
-.doctor2{
-  margin-top:50px;
+.jeep {
+  float: left;
 }
-.twits{
-  margin-left: 20px;
+.footercontainer {
+  float: left;
+  width: 25%;
 }
-.facebook{
-  margin:0 10px;
+.footercontainer h4 {
+  font-size: 25px;
+  padding-bottom: 20px;
 }
-.thermometers{
-  margin-bottom:30px;
+.footercontainer ul li {
+  list-style-type: none;
+  font-size: 20px;
+  padding-bottom: 20px;
 }
-.six thermometers{
-margin-bottom:30px;
+.footercontainer ul li img {
+  margin-right: 20px;
+  display:block;
+}
+
+.footercontainer .icons {
+  margin: 20px 0 0 20px;
+}
+.facebook {
+  margin: 0 10%;
 }
